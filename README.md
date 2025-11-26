@@ -1,1 +1,2 @@
-State Management with Zustand
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
